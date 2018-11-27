@@ -1,0 +1,2 @@
+# manasa
+smart studentmanagement system
